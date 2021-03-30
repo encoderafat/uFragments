@@ -46,19 +46,6 @@ There is a testnet deployment on Rinkeby. It rebases hourly using real market da
 - Market Oracle: [0x47fB203e1d75FB2c518Cd56f3a8094D22A46aF83](https://rinkeby.etherscan.io/address/0x47fB203e1d75FB2c518Cd56f3a8094D22A46aF83)
 - CPI Oracle: [0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F](https://rinkeby.etherscan.io/address/0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F)
 
-### KOVAN
-
-Deployer https://kovan.etherscan.io/address/0x2eb8291d3a6b72cf55b000610b6485b68783d330
-
-ERC20 Contract: 0xa2c90542Cb9E2fD85d69fe658fD92168156E7F17
-
-Supply Policy: 0xF592fE5A49ADcc487E84c95870716daEf5BeEe6F
-
-Orchestrator: 0xDfCE65e45c3C34f6e2D83bb8a0563B149AF05d99
-
-Market oracle: 0x162685cd3A305D272C4321193A3948aef1419c3C
-
-CPI oracle: 0x39DD9FC129Da34234EAcf673c24c7860C9588991
 
 ### MATIC MUMBAI TESTNET
 

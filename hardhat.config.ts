@@ -15,28 +15,13 @@ export default {
   },
   networks: {
     rinkeby: {
-      url: `https://rinkeby.infura.io/v3/${process.env.INFURA_SECRET}`,
-      accounts: {
-        mnemonic: process.env.mnemonic
-      }
+      url: `https://rinkeby.infura.io/v3/${process.env.INFURA_SECRET}`
     },
     kovan: {
-      url: `https://kovan.infura.io/v3/${process.env.INFURA_SECRET}`,
-      accounts: {
-        mnemonic: process.env.mnemonic
-      }
-    },
-    ropsten: {
-      url: `https://kovan.infura.io/v3/${process.env.INFURA_SECRET}`,
-      accounts: {
-        mnemonic: process.env.mnemonic
-      }
+      url: `https://kovan.infura.io/v3/${process.env.INFURA_SECRET}`
     },
     mainnet: {
-      url: `https://mainnet.infura.io/v3/${process.env.INFURA_SECRET}`,
-      accounts: {
-        mnemonic: process.env.mnemonic
-      }
+      url: `https://mainnet.infura.io/v3/${process.env.INFURA_SECRET}`
     }
   },
   solidity: {
